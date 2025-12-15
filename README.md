@@ -1,7 +1,5 @@
 # 🏦 Loan Approval Prediction - Classification Project
 
-![GitHub top language](https://img.shields.io/github/languages/top/yourusername/loan-approval-classification)
-![GitHub last commit](https://img.shields.io/github/last-commit/yourusername/loan-approval-classification)
 
 ## 🔍 Introduction
 This project aims to predict loan eligibility using machine learning classification algorithms. It automates the loan approval process based on applicant data like income, credit history, and loan amount—streamlining decision-making in financial institutions.
